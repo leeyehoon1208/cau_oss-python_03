@@ -3,3 +3,6 @@
 
 ## 2023-04-10
 Homework#2, simple calculator 구현
+
+## 2023-05-10 
+git lens 연습
