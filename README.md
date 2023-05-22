@@ -6,3 +6,7 @@ Homework#2, simple calculator 구현
 
 ## 2023-05-10 
 git lens 연습
+
+
+## 2023-05-16
+Homework4, figure 모듈 구현
